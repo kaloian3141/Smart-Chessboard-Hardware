@@ -2,8 +2,6 @@
 
 A smart chessboard that detects piece positions with 3D Hall-effect sensors (ALS31300) under each square and streams the board state to a host application over WiFi.
 
-Hardware за Smart Chessboard, който засича позициите на фигурите чрез 3D Hall-effect сензори, разположени под всяко поле, и предава състоянието на дъската към хост приложение чрез WiFi.
-
 ## Repository structure
 
 
