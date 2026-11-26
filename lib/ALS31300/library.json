@@ -1,0 +1,17 @@
+{
+  "name": "ALS31300",
+  "version": "0.1.0",
+  "description": "Driver for Allegro ALS31300 3D Hall-effect sensor with I2C interface",
+  "keywords": "hall-effect, sensor, i2c, allegro, als31300, magnetic",
+  "authors": [
+    {
+      "name": "Kaloyan Vlahov",
+      "url": "https://github.com/kaloian3141/Smart-Chessboard-Hardware.git"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "Wire": "*"
+  }
+}
